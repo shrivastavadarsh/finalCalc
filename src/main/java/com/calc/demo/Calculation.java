@@ -8,6 +8,7 @@ public class Calculation {
 //        this.id = id;
         this.content = content;
     }
+    //get content
 
 
 
